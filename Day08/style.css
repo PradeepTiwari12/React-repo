@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+}
+#root{
+  width: 90vw;
+  background-color: lightgreen;
+ 
+  text-align: center;
+  padding: 20px 20px;
+  margin: 250px auto;
+}
+.first{
+  font-size: 20px;
+}

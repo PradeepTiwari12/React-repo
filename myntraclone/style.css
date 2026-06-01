@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Heading{
+  display: flex;
+ 
+  justify-content: space-between;
+  background-color: whitesmoke;
+  padding: 5px;
+ 
+}
+.images{
+  position: relative;
+  left: 80px;
+}
+.ipt{
+  margin-top: 5px;
+  width: 400px;
+  height: 30px;
+  border-radius: 5px;
+  position: relative;
+  left: 70px;
+}
+.option{
+ margin-top: 10px;
+  position: relative;
+  left: 100px;
+
+}
+.rightoption{
+  margin-top: 10px;
+  position: relative;
+  right: 30px;
+
+}
+button{
+  background-color: whitesmoke;
+  border: none;
+  margin-left: 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+button:hover{
+  color: orange;
+}
+.card:hover{
+  box-shadow: 0 4px 8px 0 rgba(69, 78, 158, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: 0.3s;
+}

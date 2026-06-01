@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+#root{
+   width: 500px;
+  background-color: azure;
+text-align: center;
+  padding: 20px 20px;
+margin: 50px auto;
+}
+
+button{
+ width: 60px;
+margin-left: 10px;
+ height: 40px;
+
+  color: white;
+  border: none;
+  border-radius: 5px ;
+  border: 1px solid black;
+  cursor: pointer;
+}

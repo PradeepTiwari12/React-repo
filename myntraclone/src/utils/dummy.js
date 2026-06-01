@@ -1,0 +1,14 @@
+const arr=[{img:"https://tse1.explicit.bing.net/th/id/OIP.uOe9h7DTNNvQCSbc9BfauwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3", cloth:"Red Printed T-shirt", offer:"40-70 off",price:500},{img:"https://tse2.mm.bing.net/th/id/OIP.PeMuLPstXagGZILP0miATQHaLz?rs=1&pid=ImgDetMain&o=7&rm=3", cloth:"Blue Jeans", offer:"30-60 off",price:800},{img:"https://tse3.mm.bing.net/th/id/OIP.9QnueAc8VTnGcUh3iH9KSgHaLH?rs=1&pid=ImgDetMain&o=7&rm=3", cloth:"Black Hoodie", offer:"50-80 off",price:1200},{
+  img:"https://tse1.mm.bing.net/th/id/OIP.3QrBTTrrYow2mMTY0hfBQgAAAA?w=450&h=600&rs=1&pid=ImgDetMain&o=7&rm=3", cloth:"White Sneakers", offer:"20-50 off",price:1500},{img:"https://tse4.mm.bing.net/th/id/OIP._-xZkuwkWtQljcBxSZ8qYgHaL1?rs=1&pid=ImgDetMain&o=7&rm=3",cloth:"Green Jacket", offer:"60-90 off",price:2500},{  img:"https://i.pinimg.com/originals/12/6f/1e/126f1e478e6b079063574d2c21214db6.jpg",cloth:"Yellow Dress", offer:"10-40 off",price:950},{img:"https://img.freepik.com/premium-photo/neon-confidence-indian-model-striking-pink-dress-epitomizing-bold-selfexpression-lifestyl_878783-13545.jpg",cloth:"Pink Top", offer:"25-55 off",price:750},{img:"https://cdn-img.prettylittlething.com/0/2/6/0/026024c10754b566598315f4633382b370f3ff5f_cne8706_1.jpg", cloth:"Orange Shorts", offer:"15-45 off",price:600
+  },
+{img:"https://www.jockey.in/cdn/shop/products/2716_PFGRY_0103_S223_JKY_1.webp?v=1700027733&width=560", cloth:"Gray Sweatshirt", offer:"35-65 off",price:900},
+{img:"https://image.hm.com/assets/hm/ea/24/ea241f65f52c616ad4e0f3a757a4976d1f5ebb7a.jpg?imwidth=2160", cloth:"Brown Boots", offer:"45-75 off",price:1800},
+{img:"https://image.hm.com/assets/hm/dd/17/dd17a2b546a4e6a544f803f52a163bbe3018754b.jpg?imwidth=2160", cloth:"Floral Skirt", offer:"20-50 off",price:850},
+{img:"https://image.hm.com/assets/hm/93/9d/939d4790b306056fafa0a2a7ed3036adeb1c7150.jpg?imwidth=2160", cloth:"Casual Shirt", offer:"30-60 off",price:1100},
+{img:"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/027430/01/fnd/IND/fmt/png/PUMA-Essentials-Baseball-Cap-No.-2", cloth:"Sports Cap", offer:"15-45 off",price:450},
+{img:"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/054905/01/mod01/fnd/IND/fmt/png/VIENNA-Leather-Belt", cloth:"Leather Belt", offer:"25-55 off",price:899},
+{img:"https://cdn.fcglcdn.com/brainbees/images/products/583x720/20351562a.webp", cloth:"Denim Jacket", offer:"40-70 off",price:1300},
+{img:"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/310168/07/sv01/fnd/IND/fmt/png/Cell-Thrill-Running-Shoes", cloth:"Running Shoes", offer:"50-80 off",price:2200}
+];
+
+export default arr;

@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root{
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.first{
+background-color: white;
+width: 300px;
+height: 200px;
+border-radius: 10px;
+
+text-align: center;
+}
+button{
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  font-size: medium;
+
+ margin-top: 15px;
+ margin-left: 10px;
+ background-color: lightskyblue;
+  
+}
+button:hover{
+  background-color: orange;
+  color: white;
+  cursor: pointer;
+}
